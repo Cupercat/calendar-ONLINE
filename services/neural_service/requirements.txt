@@ -1,0 +1,7 @@
+fastapi==0.115.11
+uvicorn[standard]
+motor==3.6.0
+redis==5.2.1
+rq==1.16.2
+gigachat==0.1.0
+python-dotenv
